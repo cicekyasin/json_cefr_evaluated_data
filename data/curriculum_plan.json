@@ -1,0 +1,554 @@
+{
+  "lessons": [
+    {
+      "topic": "Business and Economy - 1",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_0",
+        "word_1_0",
+        "word_2_0",
+        "word_3_0",
+        "word_4_0"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 2",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_1",
+        "word_1_1",
+        "word_2_1",
+        "word_3_1",
+        "word_4_1"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 3",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_2",
+        "word_1_2",
+        "word_2_2",
+        "word_3_2",
+        "word_4_2"
+      ]
+    },
+    {
+      "topic": "Technology and Society - 4",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_3",
+        "word_1_3",
+        "word_2_3",
+        "word_3_3",
+        "word_4_3"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 5",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_4",
+        "word_1_4",
+        "word_2_4",
+        "word_3_4",
+        "word_4_4"
+      ]
+    },
+    {
+      "topic": "Education Trends - 6",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_5",
+        "word_1_5",
+        "word_2_5",
+        "word_3_5",
+        "word_4_5"
+      ]
+    },
+    {
+      "topic": "Food and Nutrition - 7",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_6",
+        "word_1_6",
+        "word_2_6",
+        "word_3_6",
+        "word_4_6"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 8",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_7",
+        "word_1_7",
+        "word_2_7",
+        "word_3_7",
+        "word_4_7"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 9",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_8",
+        "word_1_8",
+        "word_2_8",
+        "word_3_8",
+        "word_4_8"
+      ]
+    },
+    {
+      "topic": "Technology and Society - 10",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_9",
+        "word_1_9",
+        "word_2_9",
+        "word_3_9",
+        "word_4_9"
+      ]
+    },
+    {
+      "topic": "Food and Nutrition - 11",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_10",
+        "word_1_10",
+        "word_2_10",
+        "word_3_10",
+        "word_4_10"
+      ]
+    },
+    {
+      "topic": "Education Trends - 12",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_11",
+        "word_1_11",
+        "word_2_11",
+        "word_3_11",
+        "word_4_11"
+      ]
+    },
+    {
+      "topic": "Education Trends - 13",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_12",
+        "word_1_12",
+        "word_2_12",
+        "word_3_12",
+        "word_4_12"
+      ]
+    },
+    {
+      "topic": "Education Trends - 14",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_13",
+        "word_1_13",
+        "word_2_13",
+        "word_3_13",
+        "word_4_13"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 15",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_14",
+        "word_1_14",
+        "word_2_14",
+        "word_3_14",
+        "word_4_14"
+      ]
+    },
+    {
+      "topic": "Food and Nutrition - 16",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_15",
+        "word_1_15",
+        "word_2_15",
+        "word_3_15",
+        "word_4_15"
+      ]
+    },
+    {
+      "topic": "Science and Innovation - 17",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_16",
+        "word_1_16",
+        "word_2_16",
+        "word_3_16",
+        "word_4_16"
+      ]
+    },
+    {
+      "topic": "Education Trends - 18",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_17",
+        "word_1_17",
+        "word_2_17",
+        "word_3_17",
+        "word_4_17"
+      ]
+    },
+    {
+      "topic": "Education Trends - 19",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_18",
+        "word_1_18",
+        "word_2_18",
+        "word_3_18",
+        "word_4_18"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 20",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_19",
+        "word_1_19",
+        "word_2_19",
+        "word_3_19",
+        "word_4_19"
+      ]
+    },
+    {
+      "topic": "Science and Innovation - 21",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_20",
+        "word_1_20",
+        "word_2_20",
+        "word_3_20",
+        "word_4_20"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 22",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_21",
+        "word_1_21",
+        "word_2_21",
+        "word_3_21",
+        "word_4_21"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 23",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_22",
+        "word_1_22",
+        "word_2_22",
+        "word_3_22",
+        "word_4_22"
+      ]
+    },
+    {
+      "topic": "Travel and Culture - 24",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_23",
+        "word_1_23",
+        "word_2_23",
+        "word_3_23",
+        "word_4_23"
+      ]
+    },
+    {
+      "topic": "Environmental Issues - 25",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_24",
+        "word_1_24",
+        "word_2_24",
+        "word_3_24",
+        "word_4_24"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 26",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_25",
+        "word_1_25",
+        "word_2_25",
+        "word_3_25",
+        "word_4_25"
+      ]
+    },
+    {
+      "topic": "Environmental Issues - 27",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_26",
+        "word_1_26",
+        "word_2_26",
+        "word_3_26",
+        "word_4_26"
+      ]
+    },
+    {
+      "topic": "Technology and Society - 28",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_27",
+        "word_1_27",
+        "word_2_27",
+        "word_3_27",
+        "word_4_27"
+      ]
+    },
+    {
+      "topic": "Science and Innovation - 29",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_28",
+        "word_1_28",
+        "word_2_28",
+        "word_3_28",
+        "word_4_28"
+      ]
+    },
+    {
+      "topic": "Business and Economy - 30",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_29",
+        "word_1_29",
+        "word_2_29",
+        "word_3_29",
+        "word_4_29"
+      ]
+    },
+    {
+      "topic": "Environmental Issues - 31",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_30",
+        "word_1_30",
+        "word_2_30",
+        "word_3_30",
+        "word_4_30"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 32",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_31",
+        "word_1_31",
+        "word_2_31",
+        "word_3_31",
+        "word_4_31"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 33",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_32",
+        "word_1_32",
+        "word_2_32",
+        "word_3_32",
+        "word_4_32"
+      ]
+    },
+    {
+      "topic": "Education Trends - 34",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_33",
+        "word_1_33",
+        "word_2_33",
+        "word_3_33",
+        "word_4_33"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 35",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_34",
+        "word_1_34",
+        "word_2_34",
+        "word_3_34",
+        "word_4_34"
+      ]
+    },
+    {
+      "topic": "Science and Innovation - 36",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_35",
+        "word_1_35",
+        "word_2_35",
+        "word_3_35",
+        "word_4_35"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 37",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_36",
+        "word_1_36",
+        "word_2_36",
+        "word_3_36",
+        "word_4_36"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 38",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_37",
+        "word_1_37",
+        "word_2_37",
+        "word_3_37",
+        "word_4_37"
+      ]
+    },
+    {
+      "topic": "Environmental Issues - 39",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_38",
+        "word_1_38",
+        "word_2_38",
+        "word_3_38",
+        "word_4_38"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 40",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_39",
+        "word_1_39",
+        "word_2_39",
+        "word_3_39",
+        "word_4_39"
+      ]
+    },
+    {
+      "topic": "Art and Literature - 41",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_40",
+        "word_1_40",
+        "word_2_40",
+        "word_3_40",
+        "word_4_40"
+      ]
+    },
+    {
+      "topic": "Food and Nutrition - 42",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_41",
+        "word_1_41",
+        "word_2_41",
+        "word_3_41",
+        "word_4_41"
+      ]
+    },
+    {
+      "topic": "Travel and Culture - 43",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_42",
+        "word_1_42",
+        "word_2_42",
+        "word_3_42",
+        "word_4_42"
+      ]
+    },
+    {
+      "topic": "Food and Nutrition - 44",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_43",
+        "word_1_43",
+        "word_2_43",
+        "word_3_43",
+        "word_4_43"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 45",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_44",
+        "word_1_44",
+        "word_2_44",
+        "word_3_44",
+        "word_4_44"
+      ]
+    },
+    {
+      "topic": "Travel and Culture - 46",
+      "level": "B2",
+      "target_vocabulary": [
+        "word_0_45",
+        "word_1_45",
+        "word_2_45",
+        "word_3_45",
+        "word_4_45"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 47",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_46",
+        "word_1_46",
+        "word_2_46",
+        "word_3_46",
+        "word_4_46"
+      ]
+    },
+    {
+      "topic": "Health and Wellness - 48",
+      "level": "B1",
+      "target_vocabulary": [
+        "word_0_47",
+        "word_1_47",
+        "word_2_47",
+        "word_3_47",
+        "word_4_47"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 49",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_48",
+        "word_1_48",
+        "word_2_48",
+        "word_3_48",
+        "word_4_48"
+      ]
+    },
+    {
+      "topic": "History and Mystery - 50",
+      "level": "C1",
+      "target_vocabulary": [
+        "word_0_49",
+        "word_1_49",
+        "word_2_49",
+        "word_3_49",
+        "word_4_49"
+      ]
+    }
+  ]
+}
