@@ -74,7 +74,7 @@ def main():
 
     generated_passages = []
 
-    with open(output_path, "w") as outfile:
+    with open(output_path, "a") as outfile:
         for i, lesson in enumerate(lessons):
             topic = lesson["topic"]
             level = lesson["level"]
