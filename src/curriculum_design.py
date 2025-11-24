@@ -13,8 +13,8 @@ load_dotenv()
 # Define Pydantic models
 class LessonPlan(BaseModel):
     topic: str = Field(..., description="The topic of the lesson")
-    level: Literal["B1", "B2", "C1"] = Field(..., description="The CEFR level of the lesson")
-    target_vocabulary: List[str] = Field(..., description="List of 5-10 target vocabulary words suitable for the level")
+    level: Literal["A1", "A2", "B1", "B2", "C1", "C2"] = Field(..., description="The CEFR level of the lesson")
+    target_vocabulary: List[str] = Field(..., description="List of 5-8 target vocabulary words suitable for the level")
 
 class Curriculum(BaseModel):
     lessons: List[LessonPlan]
@@ -36,8 +36,16 @@ def generate_curriculum(num_lessons: int = 50) -> Curriculum:
 
         prompt = f"""
         Generate a curriculum plan with {num_lessons} unique English lesson topics.
-        The topics should be a mix of CEFR levels B1, B2, and C1.
-        For each lesson, provide a topic name, the CEFR level, and a list of 5-10 target vocabulary words.
+
+        Distribution of levels:
+        - 15% A1 Level (Beginner - Focus on concrete nouns, present simple)
+        - 15% A2 Level (Elementary - Focus on past simple, daily routines)
+        - 20% B1 Level (Intermediate)
+        - 20% B2 Level (Upper Intermediate)
+        - 20% C1 Level (Advanced)
+        - 10% C2 Level (Proficiency - Focus on abstract concepts, idiom, nuance)
+
+        For each lesson, provide a topic name, the CEFR level, and a list of 5-8 target vocabulary words.
         Ensure the output conforms to the specified JSON schema.
         """
 
@@ -56,7 +64,7 @@ def generate_curriculum(num_lessons: int = 50) -> Curriculum:
         return generate_mock_curriculum(num_lessons)
 
 def generate_mock_curriculum(num_lessons: int) -> Curriculum:
-    levels = ["B1", "B2", "C1"]
+    levels = ["A1", "A2", "B1", "B2", "C1", "C2"]
     topics = [
         "Technology and Society", "Environmental Issues", "Travel and Culture",
         "Health and Wellness", "Business and Economy", "Art and Literature",

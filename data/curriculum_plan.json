@@ -1,8 +1,8 @@
 {
   "lessons": [
     {
-      "topic": "Science and Innovation - 1",
-      "level": "B1",
+      "topic": "Education Trends - 1",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_0",
         "word_1_0",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 2",
+      "topic": "Travel and Culture - 2",
       "level": "C1",
       "target_vocabulary": [
         "word_0_1",
@@ -24,7 +24,7 @@
     },
     {
       "topic": "Environmental Issues - 3",
-      "level": "C1",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_2",
         "word_1_2",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 4",
+      "topic": "Environmental Issues - 4",
       "level": "C1",
       "target_vocabulary": [
         "word_0_3",
@@ -45,8 +45,8 @@
       ]
     },
     {
-      "topic": "Art and Literature - 5",
-      "level": "C1",
+      "topic": "Business and Economy - 5",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_4",
         "word_1_4",
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "topic": "Technology and Society - 6",
-      "level": "C1",
+      "topic": "Environmental Issues - 6",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_5",
         "word_1_5",
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "topic": "History and Mystery - 7",
-      "level": "B2",
+      "topic": "Education Trends - 7",
+      "level": "C1",
       "target_vocabulary": [
         "word_0_6",
         "word_1_6",
@@ -78,8 +78,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 8",
-      "level": "B2",
+      "topic": "Food and Nutrition - 8",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_7",
         "word_1_7",
@@ -89,8 +89,8 @@
       ]
     },
     {
-      "topic": "Technology and Society - 9",
-      "level": "C1",
+      "topic": "Environmental Issues - 9",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_8",
         "word_1_8",
@@ -101,7 +101,7 @@
     },
     {
       "topic": "Environmental Issues - 10",
-      "level": "B2",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_9",
         "word_1_9",
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "topic": "Education Trends - 11",
-      "level": "C1",
+      "topic": "Business and Economy - 11",
+      "level": "B2",
       "target_vocabulary": [
         "word_0_10",
         "word_1_10",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "topic": "Art and Literature - 12",
+      "topic": "Science and Innovation - 12",
       "level": "B1",
       "target_vocabulary": [
         "word_0_11",
@@ -133,8 +133,8 @@
       ]
     },
     {
-      "topic": "Environmental Issues - 13",
-      "level": "B2",
+      "topic": "Science and Innovation - 13",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_12",
         "word_1_12",
@@ -144,8 +144,8 @@
       ]
     },
     {
-      "topic": "Technology and Society - 14",
-      "level": "C1",
+      "topic": "Art and Literature - 14",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_13",
         "word_1_13",
@@ -155,8 +155,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 15",
-      "level": "C1",
+      "topic": "Art and Literature - 15",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_14",
         "word_1_14",
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 16",
-      "level": "C1",
+      "topic": "Health and Wellness - 16",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_15",
         "word_1_15",
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "topic": "Technology and Society - 17",
+      "topic": "Food and Nutrition - 17",
       "level": "B2",
       "target_vocabulary": [
         "word_0_16",
@@ -188,8 +188,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 18",
-      "level": "B2",
+      "topic": "Education Trends - 18",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_17",
         "word_1_17",
@@ -199,8 +199,8 @@
       ]
     },
     {
-      "topic": "Education Trends - 19",
-      "level": "C1",
+      "topic": "Technology and Society - 19",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_18",
         "word_1_18",
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "topic": "Art and Literature - 20",
+      "topic": "Education Trends - 20",
       "level": "B2",
       "target_vocabulary": [
         "word_0_19",
@@ -221,8 +221,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 21",
-      "level": "C1",
+      "topic": "History and Mystery - 21",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_20",
         "word_1_20",
@@ -232,8 +232,8 @@
       ]
     },
     {
-      "topic": "Science and Innovation - 22",
-      "level": "B1",
+      "topic": "Environmental Issues - 22",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_21",
         "word_1_21",
@@ -243,8 +243,8 @@
       ]
     },
     {
-      "topic": "Technology and Society - 23",
-      "level": "C1",
+      "topic": "Education Trends - 23",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_22",
         "word_1_22",
@@ -254,8 +254,8 @@
       ]
     },
     {
-      "topic": "Environmental Issues - 24",
-      "level": "C1",
+      "topic": "Food and Nutrition - 24",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_23",
         "word_1_23",
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 25",
-      "level": "C1",
+      "topic": "Business and Economy - 25",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_24",
         "word_1_24",
@@ -276,8 +276,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 26",
-      "level": "B1",
+      "topic": "Science and Innovation - 26",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_25",
         "word_1_25",
@@ -287,8 +287,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 27",
-      "level": "C1",
+      "topic": "Art and Literature - 27",
+      "level": "B2",
       "target_vocabulary": [
         "word_0_26",
         "word_1_26",
@@ -298,8 +298,8 @@
       ]
     },
     {
-      "topic": "Technology and Society - 28",
-      "level": "B2",
+      "topic": "History and Mystery - 28",
+      "level": "C1",
       "target_vocabulary": [
         "word_0_27",
         "word_1_27",
@@ -309,8 +309,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 29",
-      "level": "C1",
+      "topic": "Food and Nutrition - 29",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_28",
         "word_1_28",
@@ -320,8 +320,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 30",
-      "level": "B1",
+      "topic": "Technology and Society - 30",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_29",
         "word_1_29",
@@ -331,8 +331,8 @@
       ]
     },
     {
-      "topic": "Environmental Issues - 31",
-      "level": "B1",
+      "topic": "Food and Nutrition - 31",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_30",
         "word_1_30",
@@ -342,8 +342,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 32",
-      "level": "B1",
+      "topic": "Technology and Society - 32",
+      "level": "B2",
       "target_vocabulary": [
         "word_0_31",
         "word_1_31",
@@ -353,8 +353,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 33",
-      "level": "C1",
+      "topic": "Health and Wellness - 33",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_32",
         "word_1_32",
@@ -364,8 +364,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 34",
-      "level": "B2",
+      "topic": "Health and Wellness - 34",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_33",
         "word_1_33",
@@ -375,8 +375,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 35",
-      "level": "B2",
+      "topic": "Food and Nutrition - 35",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_34",
         "word_1_34",
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 36",
+      "topic": "Art and Literature - 36",
       "level": "B2",
       "target_vocabulary": [
         "word_0_35",
@@ -397,8 +397,8 @@
       ]
     },
     {
-      "topic": "Education Trends - 37",
-      "level": "C1",
+      "topic": "Travel and Culture - 37",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_36",
         "word_1_36",
@@ -408,8 +408,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 38",
-      "level": "B2",
+      "topic": "Food and Nutrition - 38",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_37",
         "word_1_37",
@@ -420,7 +420,7 @@
     },
     {
       "topic": "Art and Literature - 39",
-      "level": "C1",
+      "level": "B1",
       "target_vocabulary": [
         "word_0_38",
         "word_1_38",
@@ -431,7 +431,7 @@
     },
     {
       "topic": "Travel and Culture - 40",
-      "level": "C1",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_39",
         "word_1_39",
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "topic": "Technology and Society - 41",
+      "topic": "Education Trends - 41",
       "level": "B1",
       "target_vocabulary": [
         "word_0_40",
@@ -452,8 +452,8 @@
       ]
     },
     {
-      "topic": "History and Mystery - 42",
-      "level": "C1",
+      "topic": "Environmental Issues - 42",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_41",
         "word_1_41",
@@ -463,8 +463,8 @@
       ]
     },
     {
-      "topic": "Health and Wellness - 43",
-      "level": "B2",
+      "topic": "Business and Economy - 43",
+      "level": "C2",
       "target_vocabulary": [
         "word_0_42",
         "word_1_42",
@@ -474,8 +474,8 @@
       ]
     },
     {
-      "topic": "Business and Economy - 44",
-      "level": "B1",
+      "topic": "Education Trends - 44",
+      "level": "B2",
       "target_vocabulary": [
         "word_0_43",
         "word_1_43",
@@ -485,8 +485,8 @@
       ]
     },
     {
-      "topic": "Food and Nutrition - 45",
-      "level": "C1",
+      "topic": "Environmental Issues - 45",
+      "level": "A1",
       "target_vocabulary": [
         "word_0_44",
         "word_1_44",
@@ -496,7 +496,7 @@
       ]
     },
     {
-      "topic": "History and Mystery - 46",
+      "topic": "Travel and Culture - 46",
       "level": "C1",
       "target_vocabulary": [
         "word_0_45",
@@ -507,8 +507,8 @@
       ]
     },
     {
-      "topic": "Science and Innovation - 47",
-      "level": "B1",
+      "topic": "Health and Wellness - 47",
+      "level": "B2",
       "target_vocabulary": [
         "word_0_46",
         "word_1_46",
@@ -519,7 +519,7 @@
     },
     {
       "topic": "Travel and Culture - 48",
-      "level": "B2",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_47",
         "word_1_47",
@@ -529,8 +529,8 @@
       ]
     },
     {
-      "topic": "History and Mystery - 49",
-      "level": "B1",
+      "topic": "Science and Innovation - 49",
+      "level": "A2",
       "target_vocabulary": [
         "word_0_48",
         "word_1_48",
@@ -540,8 +540,8 @@
       ]
     },
     {
-      "topic": "Education Trends - 50",
-      "level": "B2",
+      "topic": "Food and Nutrition - 50",
+      "level": "C1",
       "target_vocabulary": [
         "word_0_49",
         "word_1_49",
