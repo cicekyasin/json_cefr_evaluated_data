@@ -5,6 +5,7 @@ from typing import List, Literal
 from pydantic import BaseModel, Field
 import google.generativeai as genai
 from dotenv import load_dotenv
+from src.utils import get_available_model
 
 # Load environment variables
 load_dotenv()
@@ -26,8 +27,12 @@ def generate_curriculum(num_lessons: int = 50) -> Curriculum:
         return generate_mock_curriculum(num_lessons)
 
     try:
+        # Use dynamic model selection
+        model_name = get_available_model(api_key)
+        print(f"Using model for curriculum design: {model_name}")
+
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel(model_name)
 
         prompt = f"""
         Generate a curriculum plan with {num_lessons} unique English lesson topics.
@@ -35,9 +40,6 @@ def generate_curriculum(num_lessons: int = 50) -> Curriculum:
         For each lesson, provide a topic name, the CEFR level, and a list of 5-10 target vocabulary words.
         Ensure the output conforms to the specified JSON schema.
         """
-
-        # using generation_config to enforce JSON response if supported, or just prompt engineering
-        # Gemini 1.5 Flash supports structured output with response_schema
 
         result = model.generate_content(
             prompt,

@@ -27,24 +27,15 @@ def check_env(mock_mode=False):
 
     return True
 
-def run_script(script_path, mock_mode=False):
-    print(f"\n--- Running {script_path} ---")
-    cmd = [sys.executable, script_path]
-    # If we implement passing arguments to the scripts, we would add them here.
-    # For now, the scripts check the environment variable themselves.
-    # However, to be consistent, we should probably let the scripts know they should be mocking if needed,
-    # or rely on the fact that if the key is missing/invalid, they mock.
-    # But since we are enforcing the check here, we can just run them.
-
-    # Actually, the sub-scripts (curriculum_design.py and content_generator.py) currently auto-mock
-    # if the key is missing/invalid. This behavior is fine, but we want to control it from main.
-
-    # Let's trust the check_env function to gatekeep.
+def run_module(module_name):
+    print(f"\n--- Running module {module_name} ---")
+    # Execute using -m to preserve package structure and imports
+    cmd = [sys.executable, "-m", module_name]
 
     try:
         subprocess.run(cmd, check=True)
     except subprocess.CalledProcessError as e:
-        print(f"Error running {script_path}: {e}")
+        print(f"Error running {module_name}: {e}")
         sys.exit(1)
 
 def main():
@@ -58,10 +49,10 @@ def main():
         sys.exit(1)
 
     # Step 1: Curriculum Design
-    run_script("src/curriculum_design.py")
+    run_module("src.curriculum_design")
 
     # Step 2: Content Generation
-    run_script("src/content_generator.py")
+    run_module("src.content_generator")
 
     print("\nPipeline completed successfully!")
     print("Output available in data/english_cefr_dataset.jsonl")
