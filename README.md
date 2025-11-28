@@ -12,11 +12,28 @@ This project implements a pipeline to generate synthetic English reading materia
 
 ## Setup
 
-1.  **Clone the repository.**
+### Getting Your Google Gemini API Key
+
+To use this pipeline, you'll need a Google Gemini API key:
+
+1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Sign in with your Google account
+3. Click "Create API Key"
+4. Copy the generated API key
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/cicekyasin/json_cefr_evaluated_data.git
+    cd json_cefr_evaluated_data
+    ```
+
 2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
+
 3.  **Configure Environment:**
     Copy `.env.example` to `.env` and set your `GOOGLE_API_KEY`.
     ```bash
@@ -26,6 +43,8 @@ This project implements a pipeline to generate synthetic English reading materia
     ```
     GOOGLE_API_KEY=your_actual_api_key
     ```
+    
+    **Important:** The `.env` file is in `.gitignore` to protect your API key from being committed to version control.
 
 ## Usage
 
